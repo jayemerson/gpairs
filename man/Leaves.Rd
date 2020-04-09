@@ -49,12 +49,6 @@
 See cited publications for more details.}
 \source{
   Green, W. A. (2006) Loosening the CLAMP: An exploratory graphical approach to the Climate Leaf Analysis Multivariate Program \emph{Palaeontologia Electronica} 9(2):9A.
-
-\url{http://www.palaeo-electronica.org/2006\_2/clamp/index.html}
-
-\url{http://www.open.ac.uk/earth-research/spicer/CLAMP/Physg3ar.xls} (the climatic variables)
-
-\url{http://www.open.ac.uk/earth-research/spicer/CLAMP/MET3AR.xls} (the morphological leaf scores)
 }
 \references{
 Gregory-Wodzicki, K. M. (2000) Relationships between leaf morphology and climate, Bolivia: implications for estimating paleoclimate from fossil floras. \emph{Paleobiology} 26(4):668--688.
